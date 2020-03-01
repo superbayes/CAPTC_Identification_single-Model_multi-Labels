@@ -35,5 +35,6 @@
   6,model_train.py进行模型的迭代运算
 
 如果您有宝贵的意见,请及时联系我,我的邮箱:nanyangjx@126.com
+
 if you have any question,please contact me directly,my e-mail adress:nanyangjx@126.com,thanks~
   
